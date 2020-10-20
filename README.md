@@ -1,10 +1,22 @@
-__Description de l'application DemoJPAHibernate__
+__Description des applications__
 
-*DemoJPAHibernate est une application qui permet de comprendre les points suivants:*
+__*DemoJPAHibernate*__ est une application qui permet de comprendre les points suivants:
   1. Les étapes de création d'un projet JPA	
   2. Comment rendre une classe java persistante par JPA
   3. Comprendre les classes et interfaces EntityManagerFactory, EntityManager, EntityTransaction
   4. Comprendre le fichier de configuration de JPA: persistence.xml
+  
+ __*DemoAssociationManyToOne*__ est une application qui permet de comprendre la mis en oeuvre
+d'un mapping 'plusieurs à un'.
+
+__*DemoMappingCollectionsJPA*__ est une application qui permet de comprendre la mis en oeuvre
+d'un mapping 'un à plusieurs'.
+
+__*DemoMappingHeritageJPA*__ est une application qui permet de comprendre la mis en oeuvre
+d'une relation d'héritage JPA.
+
+__*DemoJPAHibernateMaven*__ est une application qui permet de comprendre la mis en oeuvre
+d'une relation d'héritage JPA avec maven.
 
 __Pré-requis avant execution__	
 
