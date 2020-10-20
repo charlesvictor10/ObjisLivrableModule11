@@ -8,7 +8,9 @@ __Description de l'application DemoJPAHibernate__
 
 __Pré-requis avant execution__	
 
-*Installer un jdk ou au moins un jre sur son ordinateur.  Pour l'installation merci de suivre les étapes suivantes:*
+*Installer un jdk ou au moins un jre sur son ordinateur.*  
+
+Pour l'installation merci de suivre les étapes suivantes:
   * Rendez-vous sur la partie Java du site d’Oracle : http://www.oracle.com/technetwork/java
   * Dans la zone de droite ’software downloads’, cliquez sur le lien ’Java SE’ (pour Java Standard Edition)
   * Cliquez sur l’icône ’Java’ pour télécharger le JDK
@@ -25,7 +27,9 @@ __Pré-requis avant execution__
   * Cliquez sur Close: L’installation du JDK est terminée. 
 
 __Installer un IDE sur son ordinateur__ 
-*Dans notre cas nous allons installer Eclipse.  Pour l'installation merci de suivre les étapes suivantes:*
+*Dans notre cas nous allons installer Eclipse.*
+
+Pour l'installation merci de suivre les étapes suivantes:
   * Rendez-vous à l'adresse https://www.eclipse.org/downloads/
   * Cliquez sur le bouton Télécharger 64 bits
   * Cliquez ensuite sur Télécharger
