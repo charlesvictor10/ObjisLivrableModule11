@@ -1,6 +1,4 @@
-*********************************************
-*****  	Description de l'application DemoJPAHibernate   *****
-	*********************************************
+Description de l'application DemoJPAHibernate
 
 DemoJPAHibernate est une application qui permet de comprendre les points suivants:
 	1) Les étapes de création d'un projet JPA	
@@ -8,9 +6,7 @@ DemoJPAHibernate est une application qui permet de comprendre les points suivant
 	3) Comprendre les classes et interfaces EntityManagerFactory, EntityManager, EntityTransaction
 	4) Comprendre le fichier de configuration de JPA: persistence.xml
 
-	************************************
-*****  	     Pré-requis avant execution		*****
-	************************************
+Pré-requis avant execution	
 
 Installer un jdk ou au moins un jre sur son ordinateur.
 Pour l'installation merci de suivre les étapes suivantes:
@@ -40,17 +36,14 @@ Pour l'installation merci de suivre les étapes suivantes:
 	- Sélectionnez votre dossier d'installation
 	- Lancez Eclipse 
 
-	************************************
-*****  		Version du jdk utilié		  	*****
-	************************************
+Version du jdk
 
 java version "1.8.0_73"
 Java(TM) SE Runtime Environment (build 1.8.0_73-b02)
 Java HotSpot(TM) 64-Bit Server VM (build 25.73-b02, mixed mode)
 
-	************************************
-***** 	Execution de l'application:    		*****
-	************************************
+Execution de l'application: 
+
 Veuillez suivre les indications suivantes:
 	1) Téléchargez le fichier compressé DemoJPAHibernate.zip
 	2) Décompressez le dans votre workspace C:\Users\nom_utilisateur\eclipse-workspace
