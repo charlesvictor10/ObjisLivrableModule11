@@ -60,9 +60,9 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.73-b02, mixed mode)
 __Execution de l'application__ 
 
 *Veuillez suivre les indications suivantes:*
-1. Téléchargez le fichier compressé DemoJPAHibernate.zip
+1. Téléchargez le fichier compressé Nom_projet.zip
 2. Décompressez le dans votre workspace C:\Users\nom_utilisateur\eclipse-workspace	
 3. Dans Eclipse cliquez sur file > Open Projects from File System...	
-4. Sélectionnez le projet DemoJPAHibernate	
+4. Sélectionnez le projet Nom_projet	
 5. Cliquez sur finish
-6. Clic droit sur le dossier DemoJPAHibernate > Run As > Java Application
+6. Clic droit sur le dossier Nom_projet > Run As > Java Application
