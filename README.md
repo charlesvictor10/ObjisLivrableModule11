@@ -1,6 +1,6 @@
-Description de l'application DemoJPAHibernate
+__Description de l'application DemoJPAHibernate__
 
-DemoJPAHibernate est une application qui permet de comprendre les points suivants:
+*DemoJPAHibernate est une application qui permet de comprendre les points suivants:*
 
 	1) Les étapes de création d'un projet JPA	
 	
@@ -10,10 +10,10 @@ DemoJPAHibernate est une application qui permet de comprendre les points suivant
 	
 	4) Comprendre le fichier de configuration de JPA: persistence.xml
 
-Pré-requis avant execution	
+__Pré-requis avant execution__	
 
-Installer un jdk ou au moins un jre sur son ordinateur.
-Pour l'installation merci de suivre les étapes suivantes:
+*Installer un jdk ou au moins un jre sur son ordinateur.
+Pour l'installation merci de suivre les étapes suivantes:*
 
 	- Rendez-vous sur la partie Java du site d’Oracle : http://www.oracle.com/technetwork/java
 	
@@ -45,8 +45,9 @@ Pour l'installation merci de suivre les étapes suivantes:
 	
 	- Cliquez sur Close: L’installation du JDK est terminée. 
 
-Installer un IDE sur son ordinateur. Dans notre cas nous allons installer Eclipse.  
-Pour l'installation merci de suivre les étapes suivantes:
+__Installer un IDE sur son ordinateur__ 
+*Dans notre cas nous allons installer Eclipse.  
+Pour l'installation merci de suivre les étapes suivantes:*
 
 	- Rendez-vous à l'adresse https://www.eclipse.org/downloads/
 	
@@ -62,7 +63,7 @@ Pour l'installation merci de suivre les étapes suivantes:
 	
 	- Lancez Eclipse 
 
-Version du jdk
+__Version du jdk__
 
 java version "1.8.0_73"
 
@@ -70,9 +71,9 @@ Java(TM) SE Runtime Environment (build 1.8.0_73-b02)
 
 Java HotSpot(TM) 64-Bit Server VM (build 25.73-b02, mixed mode)
 
-Execution de l'application: 
+__Execution de l'application__ 
 
-Veuillez suivre les indications suivantes:
+*Veuillez suivre les indications suivantes:*
 
 	1) Téléchargez le fichier compressé DemoJPAHibernate.zip
 	
