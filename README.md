@@ -27,6 +27,7 @@ Pour l'installation merci de suivre les étapes suivantes:
   * Cliquez sur Close: L’installation du JDK est terminée. 
 
 __Installer un IDE sur son ordinateur__ 
+
 *Dans notre cas nous allons installer Eclipse.*
 
 Pour l'installation merci de suivre les étapes suivantes:
